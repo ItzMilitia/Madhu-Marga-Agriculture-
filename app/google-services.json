@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "863900465801",
-    "project_id": "madhumarga-2bf2f",
-    "storage_bucket": "madhumarga-2bf2f.firebasestorage.app"
+    "project_number": "you_no",
+    "project_id": "madhumarga",
+    "storage_bucket": "madhumarga.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:863900465801:android:863db3f2981eb40c472458",
+        "mobilesdk_app_id": "your_id",
         "android_client_info": {
           "package_name": "com.example.madhumarga"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC79vtssXNdP_jf66gmrDWKpLR-RviltnU"
+          "current_key": "your_key"
         }
       ],
       "services": {
