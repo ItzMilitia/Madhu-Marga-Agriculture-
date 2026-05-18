@@ -8,7 +8,7 @@ import okhttp3.MediaType.Companion.toMediaType
 object GeminiHelper {
 
     // 🔥 PASTE YOUR API KEY HERE
-    private const val API_KEY = "AIzaSyCpm9skBkg8ZLuoS7KqdDBSSzEYeRJwkaM"
+    private const val API_KEY = "your_api_key"
 
     fun getHiveAdvice(
         prompt: String,
