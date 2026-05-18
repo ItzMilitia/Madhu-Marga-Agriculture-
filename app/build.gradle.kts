@@ -89,7 +89,7 @@ dependencies {
     // CHART
     implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
 
-    // 🔥 FIREBASE
+    // FIREBASE
     implementation(platform(libs.firebase.bom))
     implementation(libs.firebase.auth)
     implementation(libs.firebase.firestore)
